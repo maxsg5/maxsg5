@@ -3,3 +3,6 @@
   <img style="height: auto; width: 220px;" src="https://github-readme-stats-maxsg5s-projects.vercel.app/api?username=maxsg5&show_icons=true&hide_title=true&count_private=true&hide_rank=true&theme=gruvbox"/>
 <img style="height: auto; width: 250px;" src="https://github-readme-stats-maxsg5s-projects.vercel.app/api/top-langs/?username=maxsg5&layout=compact&hide_progress=true&theme=gruvbox"/>
 </div>
+
+<img src="https://github-profile-trophy.vercel.app/?username=maxsg5&theme=gruvbox"/>
+
