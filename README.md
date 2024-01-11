@@ -6,7 +6,7 @@ I'm a game developer and software engineer passionate about creating engaging ex
 
 ### 💻 &nbsp;About Me :
 
-- 🔭 I’m currently working as a Programming Intern at Inflexion Games.
+- 🔭 I’m currently a Computer Science student at MacEwan University.
 - 🌱 I’m constantly learning new things in the realm of game design and software engineering.
 - 👯 I’m looking to collaborate on innovative game development projects.
 - 💬 Ask me about game development, software engineering, and anything tech!
