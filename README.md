@@ -6,7 +6,7 @@ I'm a game developer and software engineer passionate about creating engaging ex
 
 ### 💻 &nbsp;About Me :
 
-- 🔭 I’m currently a Computer Science student at MacEwan University.
+- 🔭 I’m currently a Software developer at Catalis working on proprietary payment SAAS.
 - 🌱 I’m constantly learning new things in the realm of game design and software engineering.
 - 👯 I’m looking to collaborate on innovative game development projects.
 - 💬 Ask me about game development, software engineering, and anything tech!
