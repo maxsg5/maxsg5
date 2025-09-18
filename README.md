@@ -4,16 +4,6 @@
 
 I'm a game developer and software engineer passionate about creating engaging experiences and powerful software.
 
-### 💻 &nbsp;About Me :
-
-- 🔭 I’m currently a Tools Programmer at Larian Studios working on groundbreaking tools to help build the next title even greater than Baldurs Gate 3.
-- 🌱 I’m constantly learning new things in the realm of game design and software engineering.
-- 👯 I’m looking to collaborate on innovative game development projects.
-- 💬 Ask me about game development, software engineering, and anything tech!
-- 📫 How to reach me: Check out the links below!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an avid gamer and love to analyze game mechanics.
-
 ## 🛠 &nbsp;Tech Stack
 
 Here are some of the technologies I work with:
