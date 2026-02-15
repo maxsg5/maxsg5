@@ -42,7 +42,7 @@ Here are some of the technologies I work with:
 ## 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.maxschafer.ca/"><img src="https://img.shields.io/badge/-maxschafer.engineer-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.maxschafer.ca/"><img src="https://img.shields.io/badge/-maxschafer.ca-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/max-schafer-game-developer-software-engineer/"><img src="https://img.shields.io/badge/-Max%20Schafer-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
